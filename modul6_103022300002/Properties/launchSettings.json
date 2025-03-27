@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "modul6_103022300002": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

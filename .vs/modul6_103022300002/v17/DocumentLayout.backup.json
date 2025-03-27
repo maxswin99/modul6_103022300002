@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BC5F7FC-2ED9-4290-A220-5F03105D5B2E}|modul6_103022300002\\modul6_103022300002.csproj|d:\\modul6_103022300002\\modul6_103022300002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BC5F7FC-2ED9-4290-A220-5F03105D5B2E}|modul6_103022300002\\modul6_103022300002.csproj|solutionrelative:modul6_103022300002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC5F7FC-2ED9-4290-A220-5F03105D5B2E}|modul6_103022300002\\modul6_103022300002.csproj|d:\\modul6_103022300002\\modul6_103022300002\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC5F7FC-2ED9-4290-A220-5F03105D5B2E}|modul6_103022300002\\modul6_103022300002.csproj|solutionrelative:modul6_103022300002\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\modul6_103022300002\\modul6_103022300002\\Main.cs",
+              "RelativeDocumentMoniker": "modul6_103022300002\\Main.cs",
+              "ToolTip": "D:\\modul6_103022300002\\modul6_103022300002\\Main.cs",
+              "RelativeToolTip": "modul6_103022300002\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:30:08.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "modul6_103022300002\\Program.cs",
               "ToolTip": "D:\\modul6_103022300002\\modul6_103022300002\\Program.cs",
               "RelativeToolTip": "modul6_103022300002\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T02:44:45.277Z",
               "EditorCaption": ""
